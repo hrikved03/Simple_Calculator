@@ -27,7 +27,7 @@ This project demonstrates basic DOM manipulation, event handling, and dynamic ex
 
 ## 📸 Preview
 
-<img width="300" alt="calculator preview" src="https://via.placeholder.com/300x450.png?text=Calculator+Preview">
+<img width="300" alt="calculator preview" src="https://via.placeholder.com/300x450.png?text=Calculator+Preview">https://hrikved03.github.io/Simple_Calculator/calculator.html
 
 *(Replace with your actual screenshot)*
 
